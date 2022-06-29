@@ -17,7 +17,7 @@
 
   ## Usage 
   Use inquirer from your command line to answer questions about your project.
-  <img src="utils/README-GENERATOR (1).gif"><br>
+  <img src="assets/README-GENERATOR (1).gif"><br>
 
   ## License 
   This project is license under MIT
